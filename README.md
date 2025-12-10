@@ -1,4 +1,4 @@
-### 📚 GoodReads – Full-Stack Book Management App
+## 📚 GoodReads – Full-Stack Book Management App
 A complete MERN-style full-stack application with:
 ✔ React Frontend  
 ✔ Node + Express Backend  
@@ -6,6 +6,7 @@ A complete MERN-style full-stack application with:
 ✔ CRUD operations (Add, Edit, Delete, View Books)
 ✔ Clean folder structure
 ✔ Single-command startup (npm run dev)
+<img width="1875" height="881" alt="Image" src="https://github.com/user-attachments/assets/821b8068-2835-4b16-b7e5-8906390569b0" />
 
 🗂 Project Folder Structure
 goodReads/
