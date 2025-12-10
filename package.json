@@ -1,0 +1,16 @@
+{
+  "name": "goodreads-monorepo",
+  "private": true,
+  "workspaces": [
+    "frontend",
+    "backend"
+  ],
+  "scripts": {
+    "start": "concurrently \"npm --prefix backend start\" \"npm --prefix frontend start\"",
+    "install:all": "npm install --workspaces",
+    "dev": "npm start"
+  },
+  "devDependencies": {
+    "concurrently": "^8.2.2"
+  }
+}
